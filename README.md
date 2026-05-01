@@ -25,4 +25,4 @@ This project is developed as part of an Android Developer Intern assignment.
 - Canvas API
 
 ## Demo Video
-https://drive.google.com/file/d/1JspplWTT9E1ndiq1eKi0uxASP8Sx589C/view?usp=drivesdk
+https://drive.google.com/file/d/1JspplWTT9E1ndiq1eKi0uxASP8Sx589C/view?usp=sharing
